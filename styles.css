@@ -1,3 +1,48 @@
+/* Color Palette
+#555358 - dark gray
+#5F6062 - light gray
+#7B7263 - light brown +
+#C6CA53 - gold +
+#C9DCB3 - silver
+-------------------------------------*/
+
+/* Global Styles
+-------------------------------------*/
+body {
+    border: 1px solid black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Header & Footer Styles
+-------------------------------------*/
+header, footer {
+    background: #C9DCB3;
+}
+
+/* Recomendations
+-------------------------------------*/
+.recomendations {
+    background: #555358;
+}
+
+/* By author
+-------------------------------------*/
+.authors {
+    background: #5F6062;
+}
+
+
+
+
+
 /* body {
     background: #81B4C9;
     font-family: 'Josefin Sans', sans-serif;
