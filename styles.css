@@ -29,11 +29,14 @@ section {
 }
 
 .banner {
-    /* width: 100%; */
     text-align: center;
-/*     max-width: 950px;
-    margin: 0 auto;
- */  }
+ }
+
+ .banner img {
+    width: 100%;
+    max-width: 950px;
+
+ }
 
 /* Header & Footer Styles
 -------------------------------------*/
